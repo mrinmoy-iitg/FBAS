@@ -1,3 +1,3 @@
 # FBAS
 
-Syntax: python FBAS.py <path to audio file> <path to save the output>
+Syntax: python FBAS.py path_to_audio file path_to_save_the_outputs
